@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>中文测试第一篇</title>
+      <link href="zhong-wen-ce-shi-di-yi-pian/"/>
+      <url>zhong-wen-ce-shi-di-yi-pian/</url>
+      
+        <content type="html"><![CDATA[<h2 id="是的，这是一篇中文博客，来自Sing-amp-Niko"><a href="#是的，这是一篇中文博客，来自Sing-amp-Niko" class="headerlink" title="是的，这是一篇中文博客，来自Sing&amp;Niko"></a>是的，这是一篇中文博客，来自Sing&amp;Niko</h2><p>佛曰：无色无相</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> BlogTest </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>The first article of SingNikoBlog</title>
       <link href="the-first-article-of-singnikoblog/"/>
       <url>the-first-article-of-singnikoblog/</url>

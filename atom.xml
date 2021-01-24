@@ -1,20 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>SingNiko</title>
   
   
   <link href="http://tntboomer.github.io/atom.xml" rel="self"/>
   
   <link href="http://tntboomer.github.io/"/>
-  <updated>2021-01-23T06:35:47.420Z</updated>
+  <updated>2021-01-24T15:55:51.100Z</updated>
   <id>http://tntboomer.github.io/</id>
   
   <author>
-    <name>Singnionwy</name>
+    <name>Singnionwy / Niko</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>中文测试第一篇</title>
+    <link href="http://tntboomer.github.io/zhong-wen-ce-shi-di-yi-pian/"/>
+    <id>http://tntboomer.github.io/zhong-wen-ce-shi-di-yi-pian/</id>
+    <published>2021-01-24T15:53:57.000Z</published>
+    <updated>2021-01-24T15:55:51.100Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;是的，这是一篇中文博客，来自Sing-amp-Niko&quot;&gt;&lt;a href=&quot;#是的，这是一篇中文博客，来自Sing-amp-Niko&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tech" scheme="http://tntboomer.github.io/categories/Tech/"/>
+    
+    
+    <category term="BlogTest" scheme="http://tntboomer.github.io/tags/BlogTest/"/>
+    
+  </entry>
   
   <entry>
     <title>The first article of SingNikoBlog</title>
